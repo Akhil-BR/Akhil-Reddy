@@ -24,25 +24,6 @@ SQL Server, MySQL, MongoDB, CosmosDB, SSIS, SSRS
 Project Management Tools: 
 Jira, Git, Agile, Confluence, Scrum
 
-
-EDUCATION:
-MS Computer Science	- University of Dayton							     		                  
-    Coursework: Data Science - Pattern Recognition, Advanced Programming and Data Structures (Python), Software Engineering, Software Project Management, Algorithm Design, Database Management System, Cybersecurity, Data Communication
-
-BS Computer Science Engineering - Gokaraju Rangaraju Institute of Engineering and Technology	 	        	         
-    Coursework: Data Warehousing and Data Mining, Cloud Computing, Mobile Computing, Web Technologies, Object Oriented Programming, Data Structures, Algorithms Design, C, C++, Java
-
-
-
-WORK EXPERIENCE:
-
-Research and Teaching Assistant - University of Dayton
-
-Data Engineer / Data Science – IBM, India
-
-Big Data Engineering - Vertiv Software Labs, India
-
-
 CERTIFICATIONS AND ADDITIONAL:
 ▪	GCP certified “Professional Data Engineer”
 ▪	Published thesis on “Designing Microservices with Use Cases and UML.”
