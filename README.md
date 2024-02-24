@@ -19,7 +19,7 @@ Big Data Tools:
 Spark, Hive, Kafka, Hadoop, Airflow, Oozie
 
 Cloud Technologies: 
-Azure (, Synapse, Data Factory, Databricks), AWS (EC2, S3, GLUE, Lambda, Redshift, Redis Cache, Crawlers, EMR) 
+Azure (Synapse, Data Factory, Databricks), AWS (EC2, S3, GLUE, Lambda, Redshift, Redis Cache, Crawlers, EMR) 
 
 Data Science & ML: 
 Scikit-learn, TensorFlow, Keras, Pandas, NumPy, NLTK, OpenCV (Computer Vision), SageMaker, Rekognition
